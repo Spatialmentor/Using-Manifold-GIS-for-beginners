@@ -1,7 +1,7 @@
 
 # **SpatialMentor guide: Using Manifold GIS (v8) for beginners**
 
-Welcome to Using Manifold GIS (v8) for beginners guide! The major goal is to compile basic information to help beginners while using Manifold. [[Just take me to the guide|Home#getting-started]]!
+Welcome to Using Manifold GIS (v8) for beginners guide! The major goal is to compile basic information to help beginners while using Manifold. [Just take me to the guide](https://github.com/Spatialmentor/wiki/Using-Manifold-GIS-for-beginners/wiki#getting-started)!
 
 [![SpatialMentor](http://i.imgur.com/WjSqk4Q.png)](http://www.spatialmentor.com)
 ######Source: http://gisgeography.com/what-gis-geographic-information-systems/
