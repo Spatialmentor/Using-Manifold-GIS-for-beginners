@@ -8,7 +8,7 @@ Welcome to Using Manifold GIS (v8) for beginners guide! The major goal is to com
 
 ## Motivation
 
-*When diving into <a href="http://www.manifold.net/" target="_blank">Manifolds website</a> or <a href="http://www.georeference.org/" target="_blank">official community</a> do you feel a bit lost when trying to start?*
+When diving into <a href="http://www.manifold.net/" target="_blank">Manifolds website</a> or <a href="http://www.georeference.org/" target="_blank">official community</a> do you feel a bit lost when trying to start?
 
 If so, probably this guide is for you, although it won't cover all Manifold possible features, because it depends on how you use it. For example, you can use it to edit geospatial data or even as a API without GUI helping you develop custom applications.
 
